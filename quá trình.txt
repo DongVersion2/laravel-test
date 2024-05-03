@@ -1,0 +1,6 @@
+ngày 1:
+- tìm hiểu các thư mục trong laravel
+- kết nối, tạo bảng với phpadmin
+- tìm hiểu về các hàm và method của route: get, post, put,delete,...
+- tìm hiểu về middleware
+- gắn link css, css bootstrap, js
